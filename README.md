@@ -1,6 +1,6 @@
-# vscode-project-name-in-statusbar
+# vscode-folder-name-in-statusbar
 
-Simply adds project name in status bar. 
+Simply adds previous and current folder name in status bar. 
 Also provides few options for label template and it's alignment in status bar.
 
 ![Preview](https://github.com/mujichOk/vscode-project-name-in-statusbar/raw/master/doc/preview.png)
